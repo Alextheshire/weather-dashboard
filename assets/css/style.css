@@ -1,0 +1,7 @@
+.custom-header {
+    background-image: linear-gradient(blue, purple);
+}
+#title {
+    font-size: 20px;
+    font-weight: bolder;
+}
