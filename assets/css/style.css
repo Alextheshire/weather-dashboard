@@ -5,3 +5,20 @@
     font-size: 20px;
     font-weight: bolder;
 }
+#tallbox {
+    height: 1000px;
+    background: salmon;
+}
+.citylistitem {
+    color: white;
+    border: 1px solid white;
+    margin: 3px 3px;
+    padding: 5px;
+}
+#mainweathercard {
+    height: 500px;
+
+}
+#fiveday {
+    height: fit-content;
+}
